@@ -4,7 +4,7 @@ This page is a collection of my project history.
 
 ### Projects in-Progress
 
-- [Component Memorization Program](https://github.com/LucasLWH/MS2_Trainer)
+- [Memorization Helper for Machine Components](https://github.com/LucasLWH/MS2_Trainer)
 
 ### Projects on-Hold
 
