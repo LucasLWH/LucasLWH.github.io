@@ -1,4 +1,4 @@
-![bio_image](images/bio-photo.jpg)
+
 ## Welcome :)
 
 This page is a collection of my project history.
