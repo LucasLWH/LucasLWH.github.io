@@ -1,9 +1,12 @@
 theme: jekyll-theme-hacker
 title: LucasLWH's Homepage
 description: In Progress...
-name: Lucas Lim
-avatar: bio-photo.jpg
-bio: "Hi! Lucas here."
 
-linkedin: www.linkedin.com/in/lucaslwh
-github: LucasLWH
+owner:
+  name: Lucas Lim
+  avatar: bio-photo.jpg
+  bio: "Hi! Lucas here."
+  email:
+ #Social Media Links
+  linkedin: www.linkedin.com/in/lucaslwh
+  github: LucasLWH
