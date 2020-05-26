@@ -5,7 +5,7 @@ This page is a collection of my project history.
 
 ### Projects in-Progress
 
--More Soon!
+- More Soon!
 
 ### Projects Complete
 
