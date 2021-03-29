@@ -1,7 +1,8 @@
 
 ## Welcome :)
+I am Lucas, a sophomore mechanical engineer at University College London. This page is a collection of my project history. Feel free to check them out below or my Github for the most up-to-date projects!
 
-This page is a collection of my project history.
+[My GitHub](https://github.com/LucasLWH)
 
 ### Projects in-Progress
 
